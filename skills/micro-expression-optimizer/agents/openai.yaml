@@ -1,0 +1,4 @@
+interface:
+  display_name: "人物表演与场景动态优化"
+  short_description: "依据镜头表达优化微表情、身体微动作及环境自然动态，保留剧情与拍法"
+  default_prompt: "使用 $micro-expression-optimizer 根据以下现有提示词的镜头表达，判断人物表演与环境动态应当补足、细化、保留还是收敛，保留剧情、对白、拍法、声音与原有结构。"

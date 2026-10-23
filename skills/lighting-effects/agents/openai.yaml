@@ -1,0 +1,4 @@
+interface:
+  display_name: "光影效果"
+  short_description: "将光影方法与导演作品参考转译为具体的环境、布光、影调和光学效果提示词"
+  default_prompt: "使用 $lighting-effects 为以下场景设计或优化环境与光影，按剧情和参考素材选择合适的方法，保留已有镜头与人物设定，输出可直接使用的提示词。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "电影人像提示词"
+  short_description: "默认 Seedream 电影特写关键词提示词，可追加 MJ 或 GPT 图像版本成套输出"
+  default_prompt: "使用 $cinematic-portrait-prompts，对尚未明确的方向用具体选项简短对齐，已有基准时直接继承；以整体美感统领，用具体、充分的外观与妆造关键词写三版 Seedream 5.0 电影特写提示词，默认暗调夜景与逆光双光源，每版附完整正文与负面词。"

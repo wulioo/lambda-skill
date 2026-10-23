@@ -1,0 +1,4 @@
+interface:
+  display_name: "特效提示词优化"
+  short_description: "根据剧情优化特效形态、运动、交互与连续性，保留原有镜头和素材引用"
+  default_prompt: "使用 $vfx-prompt-optimizer 分析以下现有提示词中特效的剧情作用，优化形态、运动、交互与状态承接，保留剧情、对白、镜头和素材引用，输出完整提示词。"
