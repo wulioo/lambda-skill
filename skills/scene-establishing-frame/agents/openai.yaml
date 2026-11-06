@@ -1,0 +1,4 @@
+interface:
+  display_name: "场景定场帧"
+  short_description: "整理场景样式与活动区域，将空间文字集中写入提示词并按镜头需要补充"
+  default_prompt: "请使用 $scene-establishing-frame，按本次参考职责提取环境样式，将活动区域转成详细文字写入【场景与空间关系】，仅在镜头需要时补充关键环境；仅供分析的图片不进入最终提示词。"
