@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 短剧导演"
+  short_description: "诊断剧本，锁定两集试播意图、导演交底与成片回审"
+  default_prompt: "使用 $seedance-short-drama-director 分析我的现成剧本，锁定前两集试播的导演意图并向美术与分镜交底。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 生成与粗剪"
+  short_description: "完成能力预检、视频生成、声音后期、粗剪验收与稳定归档"
+  default_prompt: "使用 $seedance-video-prompts 核实平台能力，并把冻结分镜执行为可回审的两集粗剪。"

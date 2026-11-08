@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 分镜脚本"
+  short_description: "完成创意分镜、资产补齐、连续性检查与生产分镜冻结交付"
+  default_prompt: "使用 $seedance-storyboard 把剧本、导演交底与资产转成创意分镜和可生成的生产分镜。"

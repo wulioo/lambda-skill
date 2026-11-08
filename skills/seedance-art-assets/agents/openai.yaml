@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 美术资产"
+  short_description: "从概念设计、生图选片到批准冻结真实参考资产的完整美术流程"
+  default_prompt: "使用 $seedance-art-assets 把剧本和导演交底做成可供分镜与 Seedance 使用的获批参考资产。"
